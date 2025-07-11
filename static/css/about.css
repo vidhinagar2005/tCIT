@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.text{
+    padding-left: 130px;
+}
+
+.header{
+    background-color: rgba(128, 128, 128, 0.521);
+    
+}
+
+.dis{
+    color: rgb(128, 128, 128) ;
+}
+
+.para{
+    padding-top: 100px
+}
+
+.bg{
+    background-image: url(https://talentcomputeracademy.in/images/courses_background.jpg);
+}
+
+.new_img{
+    background-image: url(https://talentcomputeracademy.in/images/courses_background.jpg);
+    width: 100%
+}
+
+.footer{
+    background-color: #1e2434;
+    color: white;
+}
+
+.whytxt{
+    padding: 150px 0px 6px;
+}

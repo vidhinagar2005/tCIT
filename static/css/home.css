@@ -1,0 +1,32 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+
+.bg{
+    background-image: url(https://talentcomputeracademy.in/images/courses_background.jpg);
+    width: 100%;
+}
+
+.new_txt{
+    opacity: 0.7;
+}
+
+.new_img{
+    background-image: url(https://talentcomputeracademy.in/images/courses_background.jpg);
+    width: 100%
+}
+
+.btnclick:hover{
+    box-shadow: 7px 7px 30px rgba(0, 0, 0, 0.486), -7px -7px 30px rgba(0, 0, 0, 0.466);
+       
+}
+
+.footer{
+    background-color: #1e2434;
+    color: white;
+}
